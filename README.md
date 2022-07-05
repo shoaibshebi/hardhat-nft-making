@@ -1,5 +1,10 @@
-There will be some or 3 contracts
+There will be marketplace for nfts
 
-1. Basic NFT
-2. Random IPFS NFT
-3. Dynamic SVG NFT
+NFT Owner:
+1. Owner can list nft 
+2. Can sale NFT to others
+3. Can withdraw proceeds to his/her account
+
+NFT Non-Owner:
+1. User can buy NFT
+2. To buy NFT he has to pay
